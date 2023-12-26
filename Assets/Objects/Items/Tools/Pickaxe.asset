@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4077d5ba275f33b4e90a8a0a0e0ba89c, type: 3}
   m_Name: Pickaxe
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 7367216638238687991, guid: 2d4bce17b93b2a247bb4ef17539f85ce, type: 3}
   type: 1
   description: 
